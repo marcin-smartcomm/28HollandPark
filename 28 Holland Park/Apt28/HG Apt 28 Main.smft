@@ -1,0 +1,9 @@
+<Device Model="CP3">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="Crestron_App" DeviceId="03" Name="iPad1"/>
+      <Device Model="Crestron_App" DeviceId="04" Name="iPad2"/>
+      <Device Model="Crestron_App" DeviceId="05" Name="iPad3"/>
+      <Device Model="C2N-AMP-6X100" DeviceId="10" Name="C2N-AMP-6x100 (Ethernet)"/>
+   </Network>
+</Device>
